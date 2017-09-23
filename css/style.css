@@ -1,0 +1,38 @@
+/* HEader */
+#header-nav {
+	border: 2px solid black;
+	border-radius: 0;
+	background-color: #3C3945;
+}
+
+.navbar-brand a {
+	color: #ffffff;
+}
+
+#nav-list {
+	background-color: #5C596B;
+}
+
+
+#nav-list a:hover {
+  background: #8B849E;
+}
+
+#nav-list a {
+	color:  white;
+}
+
+#nav-list li {
+	border-bottom: 1px solid white;
+}
+
+#nav-list li:nth-child(3) {
+	border: none;
+}
+
+.dishes {
+	background-color: #4A4A59;
+	color: white;
+	border-radius: 5px;
+
+}
