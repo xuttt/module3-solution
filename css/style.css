@@ -5,6 +5,10 @@
 	background-color: #3C3945;
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-top: none;
+}
+
 .navbar-brand a {
 	color: #ffffff;
 }
